@@ -1,5 +1,5 @@
 {
-    "name": "gturpin/post-type-handler",
+    "name": "whodunit/post-type-handler",
     "description": "Helper class to quickly manage PostType and Taxonomy declarations",
     "type": "library",
 	"require": {
@@ -11,6 +11,10 @@
         }
     },
     "authors": [
+        {
+            "name": "whodunit-agency",
+            "email": "dave@whodunit.fr"
+        },
         {
             "name": "gturpin-dev",
             "email": "guillaume.turpin45@gmail.com"
